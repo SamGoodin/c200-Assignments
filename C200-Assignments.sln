@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Assignment0", "Assignment0\Assignment0.pyproj", "{8415612C-18D4-4E1D-A33A-986D4CE87205}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CodeDemonstrations", "CodeDemonstrations\CodeDemonstrations.pyproj", "{DBFF409E-0A7F-48D8-AC8E-F21DA1B77BF3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Assignment1", "Assignment1\Assignment1.pyproj", "{A3002491-34A4-4270-87BB-66F8A50B58B8}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Assignment2", "Assignment2\Assignment2.pyproj", "{B11D29F1-FDCD-4DBC-99ED-C85505446C2E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LabAssignments", "LabAssignments\LabAssignments.pyproj", "{B7520475-EF87-4A57-A2BE-7EA007FEAA4F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LectureCoding", "LectureCoding\LectureCoding.pyproj", "{1DCAD261-D084-401B-AF7E-F1E407D56C1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8415612C-18D4-4E1D-A33A-986D4CE87205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8415612C-18D4-4E1D-A33A-986D4CE87205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBFF409E-0A7F-48D8-AC8E-F21DA1B77BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBFF409E-0A7F-48D8-AC8E-F21DA1B77BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3002491-34A4-4270-87BB-66F8A50B58B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3002491-34A4-4270-87BB-66F8A50B58B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11D29F1-FDCD-4DBC-99ED-C85505446C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11D29F1-FDCD-4DBC-99ED-C85505446C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7520475-EF87-4A57-A2BE-7EA007FEAA4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7520475-EF87-4A57-A2BE-7EA007FEAA4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DCAD261-D084-401B-AF7E-F1E407D56C1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DCAD261-D084-401B-AF7E-F1E407D56C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67C596A5-7DA5-4202-9C71-C70958972740}
+	EndGlobalSection
+EndGlobal

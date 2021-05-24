@@ -1,0 +1,6 @@
+Malayan Tiger: 250
+Gray Wolf: 300000
+Black Rhino: 50000
+Orangutan: 10470000
+Brown Bear: 200000000
+White Rhino: 3
